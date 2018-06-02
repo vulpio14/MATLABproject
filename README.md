@@ -1,5 +1,7 @@
 # MATLABproject
 approximate a user-defined polynomial using QR factorization and Vandemonde system
+
+
 Write a MatLab function that computes a polynomial approximation to a user-defined function. Your
 function should be invoked as:
 function [c,flag] = approx(f,a,b,n,m)
